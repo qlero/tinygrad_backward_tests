@@ -1,0 +1,5 @@
+from .timing import time_loop_single_old_backward
+from .timing import time_loop_single_new_backward
+from .timing import time_loop_consecutive_old_backward
+from .timing import time_loop_consecutive_new_backward
+from .training import run_training_mnist
